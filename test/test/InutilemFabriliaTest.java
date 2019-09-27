@@ -15,4 +15,9 @@ class InutilemFabriliaTest {
     void sub() {
         assertEquals(99, InutilemFabrilia.sub(100,1));
     }
+
+    @Test
+    void mul() {
+        assertEquals(100, InutilemFabrilia.sub(100,1));
+    }
 }

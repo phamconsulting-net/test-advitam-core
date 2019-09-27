@@ -10,4 +10,8 @@ public class InutilemFabrilia {
         return a-b;
     }
 
+    static long mul(long a, long b) {
+        return a*b;
+    }
+
 }
