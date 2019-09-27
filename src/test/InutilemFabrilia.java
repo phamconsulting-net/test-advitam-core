@@ -6,4 +6,8 @@ public class InutilemFabrilia {
         return a+b;
     }
 
+    static long sub(long a, long b) {
+        return a-b;
+    }
+
 }
