@@ -1,6 +1,6 @@
 package test;
 
-public class UselessTools {
+public class InutilemFabrilia {
 
     static long add(long a, long b) {
         return a+b;
